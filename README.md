@@ -1,6 +1,6 @@
-# We are Zi Developers
+# We are Zi Devs
 
-Hi, This is the github account of Zi developers team. Most of repositories here are privately shared with their responsible developers.
+Hi, This is the github account of Zi development team. Most of repositories here are privately shared with their responsible developers.
 
 If you are a Zi developer, please read the following guideline. These are 3 simple, yet critical rules we should consider while collaborating on our projects at Zi dev. group. 
 
