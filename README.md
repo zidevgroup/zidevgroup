@@ -1,6 +1,6 @@
 # We are Zi Developers
 
-Hi, This is the github account of Zi group. Most of repositories here are privately shared with their responsible developers.
+Hi, This is the github account of Zi developers team. Most of repositories here are privately shared with their responsible developers.
 If you are one of Zi developers, please read the following guideline. These are 3 simple, yet critical rules we should consider while collaborating on our projects at Zi dev. group. 
 
 1. Never share a single line of code from Zi projects with anyone, by any platform other than this GitHub profile repositories.
