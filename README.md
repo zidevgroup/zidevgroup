@@ -8,4 +8,5 @@ If you are one of Zi developers, please read the following guideline. These are 
 3- Fork the repository you want to collaborate on. Make your desiered changes and then, send a Pull request. Your requests will be reviewed and accepted or rejected with a comment about the reason of rejection and what you should consider to be eddited.
 
 We value your kind collaboraion and are happy to have you beside.
+
 Happy Coding :)
