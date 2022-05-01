@@ -1,4 +1,4 @@
-# We are Zi Devs
+# We are ZiDoctor Devs
 
 Hi, This is the github account of Zi development team.
 
